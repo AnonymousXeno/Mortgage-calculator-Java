@@ -1,2 +1,2 @@
 # Mortgage-calculator-Java
-Java project: Mortgage calculator
+Java project: MY Mortgage calculator
